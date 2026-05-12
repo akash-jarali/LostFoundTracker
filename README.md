@@ -237,7 +237,7 @@ http://127.0.0.1:8000/
 
 
 ## Report Item Page
-<img width="1887" height="937" alt="repo1" src="https://github.com/user-attachments/assets/4428382d-06ad-4646-8268-93df955deaa1" />
+<img width="1887" height="857" alt="repo1" src="https://github.com/user-attachments/assets/c83649df-19ec-469b-a0c8-8bde3eafe5a2" />
 
 <img width="1887" height="875" alt="repo2" src="https://github.com/user-attachments/assets/03bddd80-1e60-4872-9859-e1c9346e7dfc" />
 
