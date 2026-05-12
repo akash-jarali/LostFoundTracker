@@ -233,16 +233,25 @@ http://127.0.0.1:8000/
 # Screenshots
 
 ## Home Page
-Add screenshot here
+<img width="1883" height="867" alt="Screenshot 2026-05-12 195124" src="https://github.com/user-attachments/assets/ffffd27c-7368-4443-a502-d5423b54e1e2" />
+
 
 ## Report Item Page
-Add screenshot here
+<img width="1887" height="937" alt="repo1" src="https://github.com/user-attachments/assets/4428382d-06ad-4646-8268-93df955deaa1" />
+
+<img width="1887" height="875" alt="repo2" src="https://github.com/user-attachments/assets/03bddd80-1e60-4872-9859-e1c9346e7dfc" />
 
 ## Listings Page
-Add screenshot here
+<img width="1883" height="587" alt="lft1" src="https://github.com/user-attachments/assets/73e48229-0252-497e-9d19-5831207627f8" />
+<img width="1876" height="485" alt="lft2" src="https://github.com/user-attachments/assets/ab625c91-4887-4a05-91eb-62831a61feb5" />
+
 
 ## Analytics Dashboard
-Add screenshot here
+<img width="1874" height="792" alt="Screenshot 2026-05-12 195754" src="https://github.com/user-attachments/assets/c9285d03-2445-4f57-a200-2d4951e47ee8" />
+
+## Employee Details
+<img width="1889" height="899" alt="Screenshot 2026-05-12 195920" src="https://github.com/user-attachments/assets/08cddae8-557d-4310-a33f-8b35e7244074" />
+
 
 ---
 
